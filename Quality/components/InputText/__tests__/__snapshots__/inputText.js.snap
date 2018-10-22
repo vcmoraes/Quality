@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components - InputText renders correctly 1`] = `
+<TextInput
+  allowFontScaling={true}
+  onChangeText={[Function]}
+  style={
+    Array [
+      Object {
+        "borderColor": "gray",
+        "borderRadius": 5,
+        "borderWidth": 1,
+        "height": 40,
+        "paddingHorizontal": 7,
+        "width": "100%",
+      },
+      undefined,
+    ]
+  }
+  underlineColorAndroid="transparent"
+  value=""
+/>
+`;
